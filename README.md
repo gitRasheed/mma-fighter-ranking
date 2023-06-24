@@ -3,9 +3,9 @@ rudimentary python scripts for ranking MMA fighters with different algorithms, b
 
 # Script 1 :
 Uses ELO, (incomplete) autocorrelation and then uses a composite score based off of ELO, significant strike differential, takedown differential, and method of  victory. 
-![script 1 result](results/script1-top12.PNG")
+![script 1 result](results/script1-top12.PNG)
 # Script 2:
 Uses a mixed score from RandomForestClassifier and TrueSkill rating with Optuna hyperparameter tuning.
-![Alt text](results/script2-top12.PNG")
+![Alt text](results/script2-top12.PNG)
 # Database source:
 https://www.kaggle.com/datasets/akshaysinghim/ufc-fight-data-1993-to-2023
